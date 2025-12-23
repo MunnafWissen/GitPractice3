@@ -8,7 +8,7 @@ public class EmpController {
 
 	@GetMapping("/")
 	public String Home() {
-		return "This is the home page by main1";
+		return "This is the home page by feature2";
 	}
 	
 }
